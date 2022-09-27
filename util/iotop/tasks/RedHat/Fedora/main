@@ -1,0 +1,7 @@
+---
+- name: install iotop
+  become: yes
+  ansible.builtin.dnf:
+    name:
+      - iotop
+    state: latest
