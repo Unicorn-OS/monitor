@@ -1,0 +1,3 @@
+[submodule "GPU/intel-gpu-tools.monitor"]
+	path = GPU/intel-gpu-tools.monitor
+	url = https://github.com/Unicorn-OS/intel-gpu-tools.monitor.git
